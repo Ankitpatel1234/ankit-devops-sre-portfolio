@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ankitpatel1234.github.io/sitemap.xml

@@ -67,4 +67,4 @@ Exploring MCP agents, Kubernetes troubleshooting assistants, Jenkins failure dia
 - Portfolio: https://ankitpatel1234.github.io
 - GitHub: https://github.com/Ankitpatel1234
 - LinkedIn: https://www.linkedin.com/in/ankitpatel980633/
-- Email: patelankit91133@gmail.com
+- Email: Ankitpatelcloud760@gmail.com
